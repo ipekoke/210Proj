@@ -1,7 +1,7 @@
 # İpek Öke 30691
 
 You can find my website link [here](https://ipekoke.wixsite.com/210proj).
-I did not add my findings in the README file, but they are on the website.
+I did not add my findings in the README file, but they are on the website. I also could not upload my entire health file, as it is too long (and not appropriate to share on the internet?).
 
 ## My Motivation
 
